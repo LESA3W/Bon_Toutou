@@ -1,2 +1,2 @@
 # Clique sur le lien !
-# 🔗 Link : https://lesa3w.github.io/bontoutou/
+# 🔗 Link : https://lesa3w.github.io/bon_toutou/
